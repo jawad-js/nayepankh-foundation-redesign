@@ -93,55 +93,55 @@ src/
 <h3 align="center">🎯 Mission & Vision</h3>
 
 <p align="center">
-  <img src="./screenshots/mission_vision.png" alt="Mission & Vision" width="800">
+  <img src="./code/screenshots/mission_vision.png" alt="Mission & Vision" width="800">
 </p>
 
 <h3 align="center">📊 Impact Statistics</h3>
 
 <p align="center">
-  <img src="./screenshots/statistics.png" alt="Impact Statistics" width="800">
+  <img src="./code/screenshots/statistics.png" alt="Impact Statistics" width="800">
 </p>
 
 <h3 align="center">🤝 Volunteer Section</h3>
 
 <p align="center">
-  <img src="./screenshots/volunteers.png" alt="Volunteer Section" width="800">
+  <img src="./code/screenshots/volunteers.png" alt="Volunteer Section" width="800">
 </p>
 
 <h3 align="center">🌟 Success Stories</h3>
 
 <p align="center">
-  <img src="./screenshots/stories.png" alt="Success Stories" width="800">
+  <img src="./code/screenshots/stories.png" alt="Success Stories" width="800">
 </p>
 
 <h3 align="center">🏆 Certificates & Recognition</h3>
 
 <p align="center">
-  <img src="./screenshots/certificates.png" alt="Certificates & Recognition" width="800">
+  <img src="./code/screenshots/certificates.png" alt="Certificates & Recognition" width="800">
 </p>
 
 <h3 align="center">🖼️ Gallery</h3>
 
 <p align="center">
-  <img src="./screenshots/gallery.png" alt="Gallery" width="800">
+  <img src="./code/screenshots/gallery.png" alt="Gallery" width="800">
 </p>
 
 <h3 align="center">💝 Reviews & Donation</h3>
 
 <p align="center">
-  <img src="./screenshots/review_donation.png" alt="Reviews & Donation" width="800">
+  <img src="./code/screenshots/review_donation.png" alt="Reviews & Donation" width="800">
 </p>
 
 <h3 align="center">📬 Newsletter & Contact</h3>
 
 <p align="center">
-  <img src="./screenshots/newsletter_contact.png" alt="Newsletter & Contact" width="800">
+  <img src="./code/screenshots/newsletter_contact.png" alt="Newsletter & Contact" width="800">
 </p>
 
 <h3 align="center">🦶 Footer</h3>
 
 <p align="center">
-  <img src="./screenshots/footer.png" alt="Footer" width="800">
+  <img src="./code/screenshots/footer.png" alt="Footer" width="800">
 </p>
 
 
