@@ -81,13 +81,13 @@ src/
 <h3 align="center">🏠 Hero Section</h3>
 
 <p align="center">
-  <img src="./screenshots/hero.png" alt="Hero Section" width="800">
+  <img src="./cdoe/screenshots/hero.png" alt="Hero Section" width="800">
 </p>
 
 <h3 align="center">ℹ️ About Section</h3>
 
 <p align="center">
-  <img src="./screenshots/about.png" alt="About Section" width="800">
+  <img src="./code/screenshots/about.png" alt="About Section" width="800">
 </p>
 
 <h3 align="center">🎯 Mission & Vision</h3>
